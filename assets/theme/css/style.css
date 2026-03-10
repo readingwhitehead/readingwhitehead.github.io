@@ -25,11 +25,13 @@ a.mbr-iconfont:hover {
 .article .lead blockquote {
   margin-bottom: 0; }
 
+/*
 ul,
 ol,
 pre,
 blockquote {
   margin-bottom: 2.3125rem; }
+*/
 
 pre {
   background: #f4f4f4;
